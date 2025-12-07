@@ -110,7 +110,7 @@ The ultimate goal is to:
 
 ## 📄 Project Report
 
-**Detailed Project Report:** [View on Google Drive](https://drive.google.com/)
+**Detailed Project Report:** [View on Google Drive](https://drive.google.com/file/d/1C1cFKXWPoGFWOYtT58PeBuHAMUgQ3lZW/view?usp=drivesdk)
 
 - Complete analysis and methodology documentation
 - Comprehensive results and findings
