@@ -94,3 +94,26 @@ The ultimate goal is to:
 ### Class 1 – F1 Score Comparison**  
 ![Class 1 F1 Score](output-images/class1-f1.png)  
 
+
+
+---
+
+## 📊 Project Presentation
+
+**PowerPoint Presentation:** [Download Presentation](https://github.com/sai24k/Semiconductor-Manufacturing-Yield-Prediction-ML/releases)
+
+- Comprehensive overview of the project methodology
+- Visual representations of key findings
+- Model performance summary and recommendations
+
+---
+
+## 📄 Project Report
+
+**Detailed Project Report:** [View on Google Drive](https://drive.google.com/)
+
+- Complete analysis and methodology documentation
+- Comprehensive results and findings
+- Recommendations for future improvements
+
+---
