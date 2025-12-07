@@ -100,7 +100,7 @@ The ultimate goal is to:
 
 ## 📊 Project Presentation
 
-**PowerPoint Presentation:** [Download Presentation](https://github.com/sai24k/Semiconductor-Manufacturing-Yield-Prediction-ML/releases)
+**PowerPoint Presentation:** [Download Presentation](https://github.com/sai24k/Semiconductor-Manufacturing-Yield-Prediction-ML/blob/main/Predictive-Modelling-of-Semiconductor-Production-Yield-Using-High-Dimensional-Sensor-Signals.pptx)
 
 - Comprehensive overview of the project methodology
 - Visual representations of key findings
